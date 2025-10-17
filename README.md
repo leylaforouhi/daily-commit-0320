@@ -1,4 +1,4 @@
-from datetime import dat
+from datetime import date
 
 def days_until_new_year():
     today = date.today()
